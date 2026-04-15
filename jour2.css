@@ -1,0 +1,258 @@
+body{
+padding-top: 110px;
+background-color: white;
+}
+.bl1{
+    border-bottom: 2px solid black;
+    width: 100%;
+    height: 150px;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+.bl11{
+   
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.bl11 img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.bl12{
+   background-color: white;
+     width: 45%;
+     height:100px ;
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+     gap: 10px;
+}
+.bl13{
+    background-color: white;
+     color: black;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    width: 22%;
+    height:40px ;
+    border-radius: 20px;
+}
+.bl13 a{
+    text-decoration: none;
+    color:blue;
+}
+.bl2{
+    border: 2px solid black;
+     color:blue;
+    width: 80%;
+    height: 450px;
+    margin: 40px auto;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bl21{
+    
+    width: 50%;
+    height:100% ;
+    border-radius: 20px;
+}
+.bl211{
+    border: 1px solid rgb(195, 225, 236);
+    color: royalblue;
+    background-color: rgb(195, 225, 236);
+    width: 50%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+     display: flex;
+     align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+
+}
+.bl212{
+   
+    width: 90%;
+    height: 280px;
+    margin:  0 auto;
+     color:blue;
+}
+.bl213 button{
+     color:blue;
+    width:20%;
+    height: 30px;
+    margin: 0 auto;
+     margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+
+}
+.bl214{
+   
+     color:blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 90%;
+    height: 50px;
+    margin: 0 auto;
+}
+.bl2141{
+    border: 2px solid black;
+     color:blue;
+     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 28%;
+    height: 40px;
+    border-radius: 10px;
+    gap: 10px;
+}
+.BL2111{
+    border: 2px solid black;
+     color:blue;
+    width:90%;
+    height: 300PX;
+    margin: 0 auto;
+    margin-top: 67px;
+}
+.BL2111 img{
+    width: 100%;
+    height: 100%;
+}
+.bl3{
+    border: 2px solid black;
+     color:blue;
+    width: 15%;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 20px;
+      display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.bl4{
+    
+    width: 80%;
+    height: 300px;
+    margin: 15px auto;
+    display: flex;
+     flex-wrap: wrap;
+     gap: 20px;
+}
+.bl41{
+     border: 2px solid black;
+      color:blue;
+    width: 45%;
+    height: 130px;
+    margin: 5px auto;
+    border-radius: 10px;
+    
+}
+.bl5{
+    width: 80%;
+     color:blue;
+    height: 700px;
+    margin: 15px auto;
+    display: flex;
+     flex-wrap: wrap;
+     gap: 20px;
+}
+.bl51{
+     border: 2px solid black;
+      color:blue;
+    width: 30%;
+    height: 300px;
+    margin: 5px auto;
+    border-radius: 10px;
+    
+}
+.bl51 img{
+    width: 100%;
+    height: 50%;
+    border-radius: 10px;
+}
+.bl6{
+     color:blue;
+     width: 80%;
+    height: 120px;
+    margin: 15px auto;
+    display: flex;
+     gap: 20px;
+}
+.bl61{
+     border: 2px solid black;
+      color:blue;
+    width: 23%;
+    height: 100px;
+    margin: 5px auto;
+    border-radius: 10px;
+    
+}
+.bl7{
+    border: 2px solid black;
+     color:blue;
+    width: 80%;
+    height: 200px;
+    margin: 40px auto;
+    border-radius: 20px;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.bl72{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     color:blue;
+}
+.bl72 button{ 
+    background-color: blue;   
+    height: 40px;
+    margin: 20px;
+    border-radius: 10px;
+     color:white;
+}
+.bl8{
+    width: 15%;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 20px;
+    display: flex;
+   
+    align-items: center;
+}
+
+.bl81{
+    border: 2px solid black;
+    width:10px;
+    height:10px;
+    border-radius: 50%;
+    margin-right: 24px;
+}
+.bl9{
+    border: 2px solid black;
+    width: 80%;
+    height: 30px;
+    margin: 20px auto;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 0 ; 
+}
+.bl9 p{
+    text-align: center;
+    align-items: center;
+}
+
